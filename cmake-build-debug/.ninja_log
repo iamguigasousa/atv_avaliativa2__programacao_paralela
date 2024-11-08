@@ -1,0 +1,11 @@
+# ninja log v6
+1	231	7527842056161461	build.ninja	89fe2a673dc8fa2d
+18	100	7527828523807700	CMakeFiles/atividade_avaliativa_2.dir/main.c.obj	ec7477aa7fbfab5d
+26	112	7527829168655786	CMakeFiles/atividade_avaliativa_2.dir/deadlock.c.obj	aef870f8956d394f
+3	78	7527829892031969	CMakeFiles/atividade_avaliativa_2.dir/barreiras.c.obj	1d9370fe53d26271
+4	81	7527830651433918	CMakeFiles/atividade_avaliativa_2.dir/sinais.c.obj	5c2ca672b27cab69
+15	129	7527829168555863	CMakeFiles/atividade_avaliativa_2.dir/leitores_escritores.c.obj	9f4aa1f3a0e02b3f
+81	161	7527830652202748	atividade_avaliativa_2.exe	16e2ff04195a5900
+5	68	7527842363743463	CMakeFiles/atividade_avaliativa_2.dir/main.c.obj	ec7477aa7fbfab5d
+8	81	7527842363773978	CMakeFiles/atividade_avaliativa_2.dir/barreiras.c.obj	1d9370fe53d26271
+81	168	7527842364496073	atividade_avaliativa_2.exe	16e2ff04195a5900
